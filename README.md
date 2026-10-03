@@ -25,7 +25,7 @@ B.S. in Computer Science, Minor in Statistics, University of Central Florida (20
 **Backend:** Node.js, Express, Flask, REST APIs<br>
 **Data:** PostgreSQL, MySQL, MongoDB, Supabase, Firestore<br>
 **Cloud:** AWS, GCP, Firebase, Vercel, DigitalOcean, Nginx, Linux<br>
-**AI:** Gemini API, OpenClaw
+**AI:** Gemini API, OpenClaw, Cursor
 
 ## Contact
 
